@@ -2,9 +2,7 @@ package api;
 
 import model.UserInfo;
 
-/**
- * aaa
- */
+
 
 public interface UserInfoService {
 
