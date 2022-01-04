@@ -2,6 +2,9 @@ import api.UserInfoService;
 import model.UserInfo;
 import proxy.ProxyService;
 
+/**
+ * 注释
+ */
 public class CustomerMain {
 
     public static void main(String[] args) {
